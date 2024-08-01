@@ -1,0 +1,10 @@
+[gd_resource type="Theme" load_steps=2 format=3 uid="uid://daw5aexoacvh3"]
+
+[ext_resource type="StyleBox" uid="uid://bt7mbw2gc2xmp" path="res://Themes/debug_style_box.tres" id="1_fpy8r"]
+
+[resource]
+MarginContainer/constants/margin_bottom = 10
+MarginContainer/constants/margin_left = 10
+MarginContainer/constants/margin_right = 10
+MarginContainer/constants/margin_top = 10
+PanelContainer/styles/panel = ExtResource("1_fpy8r")
